@@ -6,4 +6,4 @@ How to make it work:
 2. Import the model to GAMA
 3. Insert "road.shp" and "buildings.shp" into the code
 4. Adjust variables if needed
-5. run
+5. Run
