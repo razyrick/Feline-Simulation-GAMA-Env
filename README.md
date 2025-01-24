@@ -11,10 +11,10 @@ How to make it work:
 Example Outputs Images:
 
 ## 15 years
-![Simulation Example Output (15 years)](simulation_example_output_15years.png)
+![Simulation Example Output (15 years)](example_images\simulation_example_output_15years.png)
 
 ## 19 years
-![Simulation Example Output (19 years)](simulation_example_output_19years.png)
+![Simulation Example Output (19 years)](example_images\simulation_example_output_19years.png)
 
 ## 26 years
-![Simulation Example Output (26 years)](simulation_example_output_26years.png)
+![Simulation Example Output (26 years)](example_images\simulation_example_output_26years.png)
